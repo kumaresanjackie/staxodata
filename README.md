@@ -1,0 +1,2 @@
+# staxodata
+fully responsive website
